@@ -6,7 +6,9 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - uses: quarto-dev/quarto-actions/setup@v2
-      - run: quarto render
+      - name: Render HTML only (no PDF)
+        run: |
+          quarto render --to html
       - uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
