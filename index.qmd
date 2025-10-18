@@ -1,0 +1,12 @@
+---
+title: "Ellaine Juvina"
+author: "Aucloire"
+date: "2025"
+format: html
+---
+
+# Hello World
+
+Test gambar:
+
+![Test Image](images/ellaine_headshot.png){width=50%}
