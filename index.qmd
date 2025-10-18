@@ -16,13 +16,70 @@ format:
 
 > **Aucloire** menyambut Anda, Sang Penjelajah. Anggaplah halaman ini sebagai **Prolog**—pintu gerbang menuju narasi Ellaine Juvina, seorang arsitek yang membangun jalan menuju **Kebebasan Mutlak** melalui disiplin yang ketat. Mari kita selami inti dari ambisi dan kontradiksi.
 
+<div style="text-align: center; margin: 30px 0;">
+    <img src="ellaine_headshot.png" alt="Foto Diri Ellaine Juvina" style="max-width: 35%; border-radius: 50%; border: 3px solid #004a7c; object-fit: cover;"> 
+    <p style="font-style: italic; margin-top: 10px; font-size: 0.95em;">Ellaine Juvina: Arsitek Logika dan Ambisi</p>
+</div>
+
 <p style="text-align: justify; margin-top: 30px;">
 Ellaine Juvina, mahasiswi **Sistem dan Teknologi Informasi ITB (Angk. 2024)**, memandang dunia dari kacamata seorang **Pragmatis** yang berorientasi pada hasil. Minatnya pada Data Engineering dan Project Management bukanlah kebetulan; ia menemukan **keseruan dalam mengorganisir data dan menata kompleksitas**, menjadikannya pemimpin yang piawai menyeimbangkan detail teknis dengan dinamika manusia. Dalam kolaborasi, keberhasilan tim diukur dari **koordinasi yang solid** sampai akhir—memastikan pembagian tugas didiskusikan, *update* dicek berkala, dan tidak ada anggota yang berakhir bermusuhan.
 </p>
 
-<p style="text-align: justify; margin-top: 20px;">
+<p style="text-align: justify;">
 Di balik profesionalismenya, terdapat **garis batas (red line)** yang tegas, yang memicu sifat kritisnya. Ia tidak menoleransi **procrastination**, argumen yang **tidak realistis**, atau individu yang **banyak mau tapi tidak bisa merealisasikan**. Namun, kontras terbesarnya terlihat dalam cara ia memproses kegagalan. Ketika mengalami kemunduran, Ellaine tidak berlarut dalam kesedihan; ia cenderung **melompati fase berduka** dan langsung berfokus pada **analisis akar masalah**—mengapa gagal dan langkah perbaikan apa yang harus diambil. Ia hanya merasakan frustrasi atau kesedihan yang mendalam ketika menyangkut ketidakmampuan diri sendiri atau urusan personal dengan keluarga/pertemanan. Air mata adalah hal langka yang hanya terjadi ketika keadaan sudah benar-benar tidak tertahankan, sebab ia terbiasa menahan diri untuk tidak menunjukkannya di depan orang lain.
 </p>
+
+<p style="font-style: italic; margin-top: 30px;">
+Namun, Arsitek Kebebasan ini juga membutuhkan jeda. Ketika sistemnya menuntut rehat, Ellaine mengisi baterai dalam:
+</p>
+* **Dunia Fantasi & Realitas:** Membaca **Manhwa** (semua genre kecuali horor/thriller) sebagai ritual harian yang konstan.
+* **Arena Kebebasan:** Tenggelam dalam dunia **K-Pop** (terutama Seventeen), termasuk menghadiri **penayangan ulang film konser di bioskop** dan **konser langsung**—bentuk nyata dari kebebasan yang kelak ingin ia capai.
+
+<hr>
+## Lintasan Waktu: Di Persimpangan Ambisi {.unnumbered}
+
+<p style="text-align: justify;">
+Perjalanan Ellaine adalah serangkaian lompatan berani, dari Juara **Spelling Bee** di SD, meraih **Juara 3 Lomba Speech** skala Provinsi di SMA—semua menegaskan kapasitas alaminya dalam berkompetisi. Inti dari disiplinnya tertanam dari **Balet** (RAD Grade Distinction) yang ia tekuni, yang ia tinggalkan demi ambisi memasuki gerbang ITB.
+</p>
+
+### Disiplin Artistik dan Arena Panggung {.unnumbered}
+
+<div style="display: flex; justify-content: space-around; margin: 20px 0;">
+    <figure style="flex-basis: 30%;">
+        <img src="ballet.png" alt="Foto Balet: Ujian atau Photoshoot" style="max-width: 100%; border-radius: 8px;">
+        <figcaption style="text-align: center; font-size: 0.9em; margin-top: 5px;">Ellaine's Ballet Core Memory</figcaption>
+    </figure>
+    <figure style="flex-basis: 30%;">
+        <img src="sendratasik.png" alt="Ellaine sebagai Magician di Sendratasik 12 MIA 1" style="max-width: 100%; border-radius: 8px;">
+        <figcaption style="text-align: center; font-size: 0.9em; margin-top: 5px;">Panggung SMA: Magician dan Koordinator Dance Sendratasik.</figcaption>
+    </figure>
+    <figure style="flex-basis: 30%;">
+        <img src="kpop.png" alt="Momen saat menonton event/konser K-Pop" style="max-width: 100%; border-radius: 8px;">
+        <figcaption style="text-align: center; font-size: 0.9em; margin-top: 5px;">Mencari Inspirasi: Kunjungan ke 'Arena Bebas' (Fan Event/Konser).</figcaption>
+    </figure>
+</div>
+
+### Eksplorasi & Pencapaian Terkini: Fondasi Kebebasan {.unnumbered}
+
+<div style="display: flex; justify-content: space-around; margin: 20px 0;">
+    <figure style="flex-basis: 30%;">
+        <img src="ellaine_itbbackshot.png" alt="Ellaine saat pertama menapakkan kaki di ITB Jatinangor" style="max-width: 100%; border-radius: 8px;">
+        <figcaption style="text-align: center; font-size: 0.9em; margin-top: 5px;">ITB: Alumni Pertama STEI-K dari Sekolah.</figcaption>
+    </figure>
+    <figure style="flex-basis: 30%;">
+        <img src="oskm.png" alt="Ellaine saat Performance OSKM" style="max-width: 100%; border-radius: 8px;">
+        <figcaption style="text-align: center; font-size: 0.9em; margin-top: 5px;">Menguji Struktur dalam Proyek Besar: OSKM/Jatrix.</figcaption>
+    </figure>
+    <figure style="flex-basis: 30%;">
+        <img src="maskot_arkav.png" alt="Foto lucu dengan maskot Arkavidia" style="max-width: 100%; border-radius: 8px;">
+        <figcaption style="text-align: center; font-size: 0.9em; margin-top: 5px;">Pengalaman yang Dikumpulkan: Senja di Balik Layar ITB.</figcaption>
+    </figure>
+</div>
+
+<p style="text-align: justify; margin-top: 30px;">
+Setiap peran kepanitiaan dan organisasi yang diambilnya (termasuk **Project Leader Jatrix**, **Staff Performance OSKM**, dan lainnya) ia jadikan laboratorium untuk menguji efisiensi dan kepemimpinannya. Ini adalah bukti nyata dari prinsip utamanya: **keinginan untuk membuat keputusan secara bebas hanya bisa dicapai dengan mengumpulkan pengalaman dan sumber daya sebanyak mungkin**. Semua ini adalah langkah pertamanya.
+</p>
+<hr>
 
 <p style="text-align: justify; margin-top: 20px;">
 Ellaine memasuki setiap ruang dengan dahaga akan **otonomi dan kekuatan**. Visi akhirnya adalah mencapai **Kebebasan Finansial**—mengumpulkan sumber daya hingga ia bisa **membuat keputusan secara bebas** tanpa dikendalikan oleh konsekuensi negatif atau tanggungan. Tujuan yang akan Anda lihat di *website* ini adalah langkah pertamanya: berupaya keras mengumpulkan **pengalaman** sebanyak mungkin, sebagai modal yang tak ternilai untuk membuat pilihan hidup yang paling bebas dan bertanggung jawab di masa depan.
