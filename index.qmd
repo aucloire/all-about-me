@@ -1,53 +1,46 @@
 ---
-title: "Ellaine Juvina"
+title: "Ellaine Juvina" {.unnumbered}
 subtitle: "Portfolio Asesmen dan Jejak Diri"
 author: "Aucloire (Pemandu Digital Ellaine Juvina)"
 date: "October 2025" 
 format: 
   html:
-    toc: false # Table of Contents tidak diperlukan untuk halaman perkenalan ini
-    css: styles.css # Tambahkan file kustom CSS untuk estetika
+    toc: false
+    css: styles.css 
     self-contained: true
 ---
 
 # Peta Diri (The Blueprint)
- 
-> **Aucloire** hadir sebagai pemandu Anda untuk memahami narasi, etos kerja, dan visi dari individu di balik platform ini: **Ellaine Juvina**. Tugas Aucloire adalah menyajikan Ellaine dari sudut pandang yang jernih, menekankan pada prinsip yang ia bawa saat berinteraksi, berproses, dan memimpin.
 
-## Siapa Ellaine Juvina?
+> **Aucloire** menyambut Anda. Ini bukan sekadar halaman *About Me*, melainkan **peta pikiran**—sebuah eksplorasi terhadap cara Ellaine Juvina berpikir, berproses, dan memimpin. Kami menyajikan panduan ini untuk memahami arsitektur di balik ambisi.
 
-[cite_start]Ellaine adalah seorang mahasiswi **Sistem dan Teknologi Informasi (S-1) semester 3 di Institut Teknologi Bandung (STEI-K) angkatan 2024**[cite: 488, 493]. Dalam dunia yang didominasi data, ia menemukan minat utama pada **Data Engineering** dan **Project Management**, melihatnya sebagai kombinasi ideal antara logika teknis dan aplikasi strategis di dunia nyata. [cite_start]Ia juga merupakan alumni **SMAS Methodist-2 Medan**[cite: 489].
+## Arsitektur Pikiran: Assessor & The Bridge
 
-### Latar Belakang Utama
+Ellaine adalah mahasiswi **Sistem dan Teknologi Informasi ITB (Angk. 2024)** dengan minat utama pada **Data Engineering dan Project Management**. Di mata Aucloire, Ellaine adalah seorang **Assessor**—sebuah peran langka di mana ia berdiri sebagai jembatan:
 
-| Kategori | Detail |
-| :--- | :--- |
-| **Pendidikan** | [cite_start]S-1 Sistem dan Teknologi Informasi, ITB [cite: 488] |
-| **Bidang Minat** | [cite_start]Data Engineering, Project Management [cite: 438] |
-| **Keunggulan DISC** | [cite_start]Assessor (Mampu menyeimbangkan People & Detail Orientation) [cite: 383, 384] |
+* **Satu Kaki di Data:** Menyentuh kebutuhan akan **detail, logika, dan struktur** yang kaku.
+* **Satu Kaki di Manusia:** Menyentuh kapasitas untuk **melibatkan orang** dan memimpin secara asertif, tanpa agresif.
 
-## Prinsip Kunci (Sang Assessor)
+Kontras inilah yang membentuk inti pribadinya: ia berdedikasi tinggi pada standar kualitas, namun juga mahir menghimpun berbagai tipe orang menuju tujuan yang sama.
 
-[cite_start]Ellaine mendefinisikan diri melalui prinsip yang didasarkan pada kemampuan langka untuk menyeimbangkan orientasi terhadap orang dan detail, yang dikenal sebagai gaya DISC **Assessor**[cite: 383, 399].
+## Etos yang Menggerakkan: Realisme dan Daya Saing
 
-Tiga prinsip yang menggerakkan dirinya adalah:
+Etos Ellaine sangat kental dengan **Realisme Pragmatis** dan **Daya Saing Progresif**:
 
-* [cite_start]**Pragmatis:** Ellaine berorientasi pada hasil (**outcome-driven**)[cite: 390]. [cite_start]Ia mencari solusi yang paling efisien, fokus pada **bottom-line results** [cite: 97][cite_start], dan skeptis terhadap ide-ide yang ia anggap tidak praktis atau hanya berdasarkan teori tanpa hasil nyata[cite: 90, 395].
-* [cite_start]**The Bridge:** Sebagai seorang *Assessor*, Ellaine secara alami menjadi **jembatan komunikasi**[cite: 422]. [cite_start]Ia unggul dalam **menjelaskan strategi** dan mengomunikasikan visi dengan menciptakan "gambar mental" bagi audiensnya[cite: 52, 401].
-* [cite_start]**Ambisius Progresif:** Ellaine memiliki dorongan yang kuat untuk mencapai otoritas dan pengakuan (**Power & Economic**)[cite: 389]. [cite_start]Ia adalah individu yang kompetitif, ingin **melampaui orang lain dalam penghargaan** [cite: 98, 100][cite_start], serta menghargai kebebasan dan otonomi (**Individualistic**)[cite: 392, 393].
+1.  **Anti-Impratis:** Ia didorong oleh hasil (**Economic**) dan menolak keras ide-ide yang hanya berbasis pada emosi atau terlalu abstrak. Ia adalah pencari solusi yang efisien, fokus pada *bottom-line results*.
+2.  **Ambisi dan Otonomi:** Terdapat dorongan kuat untuk mencapai posisi otoritas, dihormati atas pencapaian pribadi, dan memiliki kebebasan untuk mengekspresikan gagasannya sendiri (**Power & Individualistic**). Ia tidak hanya bersaing dengan orang lain, tetapi juga dengan dirinya sendiri.
 
-## Etos Kerja dan Komunikasi
+## Senjata Rahasia: Komunikasi Terstruktur
 
-[cite_start]Dalam setiap kegiatan kepemimpinan, seperti mengarahkan proyek **Jatrix** atau mengelola database di **IEEE ITB Student**[cite: 452, 447], Ellaine mempraktikkan proses yang terstruktur.
+Dalam interaksi, ia menggunakan struktur untuk mengeliminasi ketidakpastian:
 
-* [cite_start]**Menghargai Struktur:** Ia menyukai ketertiban, struktur, dan aturan yang jelas (**Regulatory**)[cite: 394]. [cite_start]Ia adalah pemikir *black-and-white* yang berusaha bekerja dalam batas-batas yang ditetapkan[cite: 137, 134].
-* **Kejelasan Komunikasi:** Saat berinteraksi, ia berusaha memandang situasi dari sudut pandang orang lain, mengajukan klarifikasi, dan tidak terburu-buru menyimpulkan [dilihat dari contoh teks Muhammad Rafi Dhiyaulhaq].
-* [cite_start]**Kepemimpinan yang Mengarah:** Assertivitasnya digunakan untuk menjaga proyek tetap pada jalurnya, namun ia perlu memastikan kritik yang disampaikannya dilembutkan dengan solusi untuk menghindari friksi dalam tim[cite: 423].
+* **Penyelarasan Visi:** Ellaine memiliki keahlian khusus dalam membantu orang lain memvisualisasikan aktivitas yang diperlukan untuk sukses. Ia melukiskan **"gambar mental"** untuk mengomunikasikan visi dan jalur menuju keberhasilan.
+* **Kerangka Kritis:** Ia menyukai keteraturan (**Regulatory**) dan menjauhi orang yang mengeluh. Meskipun mampu bersikap bijaksana, ia cenderung menjadi **kritis dan *fault-finding*** ketika standar kualitas menurun atau prosesnya tidak berjalan sesuai kaidah.
 
 ## Visi ke Depan
 
-Tujuan utama *website* ini, selaras dengan kompetensi *Assessor* Ellaine, adalah **Menciptakan *Bridge* antara Kemampuan Teknis Data dan Kepemimpinan Proyek untuk Menarik Peluang Kolaborasi Strategis.**
+Tujuan *website* ini, selaras dengan peran "The Bridge," adalah: **Menciptakan Jembatan antara Kemampuan Teknis Data dan Kepemimpinan Proyek untuk Menarik Peluang Kolaborasi Strategis**.
 
-[cite_start]Ellaine berada di titik *sweet spot* dalam memimpin inisiatif kompleks di mana **keterlibatan manusia dan standar kualitas yang tinggi diperlukan**[cite: 434]. [cite_start]Aucloire akan memandu Anda dalam menelusuri portofolio teknis dan organisasional Ellaine Juvina, yang merupakan bukti nyata dari perpaduan langka antara **People Skills** dan **Detail Awareness**[cite: 28].
+Aucloire akan memandu Anda melihat bagaimana Ellaine mewujudkan tujuan yang tinggi ini—selalu **fungsional dalam kekacauan**, namun berjanji untuk terus melatih **fleksibilitas, empati, dan keterbukaan kreatif**, demi memastikan jembatan itu tidak hanya kokoh, tetapi juga humanis.
 
 ---
