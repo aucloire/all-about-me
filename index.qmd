@@ -9,6 +9,7 @@ format:
     toc: false
     css: styles.css 
     self-contained: true
+    number-sections: false
 ---
 
 # Peta Diri (The Blueprint)
