@@ -8,7 +8,6 @@ book:
   author: "18224071 Ellaine Juvina"
   date: "10/18/2025"
   chapters:
-    - index.qmd
     - intro.qmd
     - My_Song_for_You/index.qmd
     - My_Stories_for_You/index.qmd
