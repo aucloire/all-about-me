@@ -16,12 +16,9 @@ format:
  
 > **Aucloire** menyambut Anda, Sang Penjelajah. Anggaplah halaman ini sebagai **Prolog**—pintu gerbang menuju narasi Ellaine Juvina, seorang arsitek yang membangun jalan menuju **Kebebasan Mutlak** melalui disiplin yang ketat. Mari kita selami inti dari ambisi dan kontradiksi.
 
-<div style="text-align: center; margin: 30px 0;">
     ![Foto Diri Ellaine Juvina](images/ellaine_headshot.png){width=35% style="border-radius: 50%; border: 3px solid #004a7c;"}
 
 *Ellaine Juvina: Arsitek Logika dan Ambisi*
-    <p style="font-style: italic; margin-top: 10px; font-size: 0.95em;">Ellaine Juvina: Arsitek Logika dan Ambisi</p>
-</div>
 
 <p style="text-align: justify; margin-top: 30px;">
 Ellaine Juvina, mahasiswi **Sistem dan Teknologi Informasi ITB (Angkatan 2024)**, memandang dunia dari kacamata seorang **Pragmatis** yang berorientasi pada hasil. Minatnya pada Data Engineering dan Project Management bukanlah kebetulan; ia menemukan **keseruan dalam mengorganisir data dan menata kompleksitas**, menjadikannya pemimpin yang piawai menyeimbangkan detail teknis dengan dinamika manusia. Dalam kolaborasi, keberhasilan tim diukur dari **koordinasi yang solid** sampai akhir—memastikan pembagian tugas didiskusikan, *update* dicek berkala, dan tidak ada anggota yang berakhir bermusuhan.
