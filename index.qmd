@@ -11,7 +11,7 @@ format:
     self-contained: true
     number-sections: false
 ---
-
+ 
 # Gerbang Aucloire {.unnumbered}
  
 > **Aucloire** menyambut Anda, Sang Penjelajah. Anggaplah halaman ini sebagai **Prolog**—pintu gerbang menuju narasi Ellaine Juvina, seorang arsitek yang membangun jalan menuju **Kebebasan Mutlak** melalui disiplin yang ketat. Mari kita selami inti dari ambisi dan kontradiksi.
