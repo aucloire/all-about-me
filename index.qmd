@@ -17,7 +17,7 @@ format:
 > **Aucloire** menyambut Anda, Sang Penjelajah. Anggaplah halaman ini sebagai **Prolog**—pintu gerbang menuju narasi Ellaine Juvina, seorang arsitek yang membangun jalan menuju **Kebebasan Mutlak** melalui disiplin yang ketat. Mari kita selami inti dari ambisi dan kontradiksi.
 
 <div style="text-align: center; margin: 30px 0;">
-    <img src="ellaine_headshot.png" alt="Foto Diri Ellaine Juvina" style="max-width: 35%; border-radius: 50%; border: 3px solid #004a7c; object-fit: cover;"> 
+    <img src="images/ellaine_headshot.png" alt="Foto Diri Ellaine Juvina" style="max-width: 35%; border-radius: 50%; border: 3px solid #004a7c; object-fit: cover;"> 
     <p style="font-style: italic; margin-top: 10px; font-size: 0.95em;">Ellaine Juvina: Arsitek Logika dan Ambisi</p>
 </div>
 
@@ -46,15 +46,15 @@ Perjalanan Ellaine adalah serangkaian lompatan berani, dari Juara **Spelling Bee
 
 <div style="display: flex; justify-content: space-around; margin: 20px 0;">
     <figure style="flex-basis: 30%;">
-        <img src="ballet.png" alt="Foto Balet: Ujian atau Photoshoot" style="max-width: 100%; border-radius: 8px;">
+        <img src="images/ballet.png" alt="Foto Balet: Summer School dan Photoshoot" style="max-width: 100%; border-radius: 8px;">
         <figcaption style="text-align: center; font-size: 0.9em; margin-top: 5px;">Ellaine's Ballet Core Memory</figcaption>
     </figure>
     <figure style="flex-basis: 30%;">
-        <img src="sendratasik.png" alt="Ellaine sebagai Magician di Sendratasik 12 MIA 1" style="max-width: 100%; border-radius: 8px;">
+        <img src="images/sendratasik.png" alt="Ellaine sebagai Magician di Sendratasik 12 MIA 1" style="max-width: 100%; border-radius: 8px;">
         <figcaption style="text-align: center; font-size: 0.9em; margin-top: 5px;">Panggung SMA: Magician dan Koordinator Dance Sendratasik.</figcaption>
     </figure>
     <figure style="flex-basis: 30%;">
-        <img src="kpop.png" alt="Momen saat menonton event/konser K-Pop" style="max-width: 100%; border-radius: 8px;">
+        <img src="images/kpop.png" alt="Momen saat menonton event/konser K-Pop" style="max-width: 100%; border-radius: 8px;">
         <figcaption style="text-align: center; font-size: 0.9em; margin-top: 5px;">Mencari Inspirasi: Kunjungan ke 'Arena Bebas' (Fan Event/Konser).</figcaption>
     </figure>
 </div>
@@ -63,15 +63,15 @@ Perjalanan Ellaine adalah serangkaian lompatan berani, dari Juara **Spelling Bee
 
 <div style="display: flex; justify-content: space-around; margin: 20px 0;">
     <figure style="flex-basis: 30%;">
-        <img src="ellaine_itbbackshot.png" alt="Ellaine saat pertama menapakkan kaki di ITB Jatinangor" style="max-width: 100%; border-radius: 8px;">
+        <img src="images/ellaine_itbbackshot.png" alt="Ellaine saat pertama menapakkan kaki di ITB Jatinangor" style="max-width: 100%; border-radius: 8px;">
         <figcaption style="text-align: center; font-size: 0.9em; margin-top: 5px;">ITB: Alumni Pertama STEI-K dari Sekolah.</figcaption>
     </figure>
     <figure style="flex-basis: 30%;">
-        <img src="oskm.png" alt="Ellaine saat Performance OSKM" style="max-width: 100%; border-radius: 8px;">
+        <img src="images/oskm.png" alt="Ellaine saat Performance OSKM" style="max-width: 100%; border-radius: 8px;">
         <figcaption style="text-align: center; font-size: 0.9em; margin-top: 5px;">Menguji Struktur dalam Proyek Besar: OSKM/Jatrix.</figcaption>
     </figure>
     <figure style="flex-basis: 30%;">
-        <img src="maskot_arkav.png" alt="Foto lucu dengan maskot Arkavidia" style="max-width: 100%; border-radius: 8px;">
+        <img src="images/maskot_arkav.png" alt="Foto lucu dengan maskot Arkavidia" style="max-width: 100%; border-radius: 8px;">
         <figcaption style="text-align: center; font-size: 0.9em; margin-top: 5px;">Pengalaman yang Dikumpulkan: Senja di Balik Layar ITB.</figcaption>
     </figure>
 </div>
