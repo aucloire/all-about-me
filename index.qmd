@@ -1,8 +1,9 @@
 ---
-title: "Ellaine Juvina" {.unnumbered}
+title: |
+  **Ellaine Juvina**
 subtitle: "Portfolio Asesmen dan Jejak Diri"
 author: "Aucloire (Pemandu Digital Ellaine Juvina)"
-date: "October 2025" 
+date: "18 October 2025" 
 format: 
   html:
     toc: false
