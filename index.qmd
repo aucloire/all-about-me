@@ -17,7 +17,9 @@ format:
 > **Aucloire** menyambut Anda, Sang Penjelajah. Anggaplah halaman ini sebagai **Prolog**—pintu gerbang menuju narasi Ellaine Juvina, seorang arsitek yang membangun jalan menuju **Kebebasan Mutlak** melalui disiplin yang ketat. Mari kita selami inti dari ambisi dan kontradiksi.
 
 <div style="text-align: center; margin: 30px 0;">
-    <img src="images/ellaine_headshot.png" alt="Foto Diri Ellaine Juvina" style="max-width: 35%; border-radius: 50%; border: 3px solid #004a7c; object-fit: cover;"> 
+    ![Foto Diri Ellaine Juvina](images/ellaine_headshot.png){width=35% style="border-radius: 50%; border: 3px solid #004a7c;"}
+
+*Ellaine Juvina: Arsitek Logika dan Ambisi*
     <p style="font-style: italic; margin-top: 10px; font-size: 0.95em;">Ellaine Juvina: Arsitek Logika dan Ambisi</p>
 </div>
 
