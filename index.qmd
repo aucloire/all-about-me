@@ -1,6 +1,6 @@
 ---
 title: |
-  **Ellaine Juvina**
+  **Aucloire**": Portfolio Ellaine Juvina"
 subtitle: "Portfolio Asesmen dan Jejak Diri"
 author: "Aucloire (Pemandu Digital Ellaine Juvina)"
 date: "18 October 2025" 
