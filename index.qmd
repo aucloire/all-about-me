@@ -11,7 +11,7 @@ format:
 ---
 
 # Peta Diri (The Blueprint)
-
+ 
 > **Aucloire** hadir sebagai pemandu Anda untuk memahami narasi, etos kerja, dan visi dari individu di balik platform ini: **Ellaine Juvina**. Tugas Aucloire adalah menyajikan Ellaine dari sudut pandang yang jernih, menekankan pada prinsip yang ia bawa saat berinteraksi, berproses, dan memimpin.
 
 ## Siapa Ellaine Juvina?
