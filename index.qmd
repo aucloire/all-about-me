@@ -1,6 +1,6 @@
 ---
 title: |
-  **Aucloire**": Portfolio Ellaine Juvina"
+  **Aucloire**: Portfolio Ellaine Juvina
 subtitle: "Portfolio Asesmen dan Jejak Diri"
 author: "Aucloire (Pemandu Digital Ellaine Juvina)"
 date: "18 October 2025" 
@@ -46,4 +46,4 @@ Tujuan *website* ini, selaras dengan peran "The Bridge," adalah: **Menciptakan J
 Aucloire akan memandu Anda melihat bagaimana Ellaine mewujudkan tujuan yang tinggi ini—selalu **fungsional dalam kekacauan**, namun berjanji untuk terus melatih **fleksibilitas, empati, dan keterbukaan kreatif**, demi memastikan jembatan itu tidak hanya kokoh, tetapi juga humanis.
 
 ---
-`<style>li:first-child { list-style: none; }</style>`
+<style>li:first-child { list-style: none; }</style>
