@@ -15,7 +15,7 @@ format:
 
 > **Aucloire** menyambut Anda, Sang Penjelajah. Anggaplah halaman ini sebagai **Prolog**—pintu gerbang menuju narasi Ellaine Juvina, seorang arsitek yang membangun jalan menuju **Kebebasan Mutlak** melalui disiplin yang ketat. Inilah pesan yang memperkenalkan sosok diri kita. Mari kita selami inti dari ambisi dan kontradiksi.
 
-![Foto Diri Ellaine Juvina](images/ellaine_headshot.png){width=35% style="border-radius: 50%; border: 3px solid #00000000;"}
+![Foto Diri Ellaine Juvina](images/ellaine_headshot.png){width=75%}
 
 <p style="text-align: justify;">
 Ellaine Juvina, mahasiswi **Sistem dan Teknologi Informasi ITB (Angk. 2024)**, memandang dunia dari kacamata seorang **Pragmatis** yang berorientasi pada hasil. Minatnya pada Data Engineering dan Project Management bukanlah kebetulan; ia menemukan **keseruan dalam mengorganisir data dan menata kompleksitas**, menjadikannya pemimpin yang piawai menyeimbangkan detail teknis dengan dinamika manusia. Dalam kolaborasi, keberhasilan tim diukur dari **koordinasi yang solid** sampai akhir—memastikan pembagian tugas didiskusikan, *update* dicek berkala, dan tidak ada anggota yang berakhir bermusuhan.
@@ -41,15 +41,15 @@ Perjalanan Ellaine adalah serangkaian lompatan berani, dari Juara **Spelling Bee
 
 ### Disiplin Artistik dan Arena Panggung {.unnumbered}
 
-![Ellaine's Ballet Core Memory](images/ballet.png){width=30% style="border-radius: 50%; border: 3px solid #00000000;"}
-![Ellaine as 12 MIA 1's Magician](images/sendratasik.png){width=30% style="border-radius: 50%; border: 3px solid #00000000;"}
-![Ellaine's Fangirling Agenda](images/kpop.png){width=30% style="border-radius: 50%; border: 3px solid #00000000;"}
+![Ellaine's Ballet Core Memory](images/ballet.png){width=30%}
+![Ellaine as 12 MIA 1's Magician](images/sendratasik.png){width=30% style="border: 3px solid #00000000;"}
+![Ellaine's Fangirling Agenda](images/kpop.png){width=30% style="border: 3px solid #00000000;"}
 
 ### Eksplorasi & Pencapaian Terkini: Fondasi Kebebasan {.unnumbered}
 
-![Ellaine's First Step in ITB](images/ellaine_itbbackshot.png){width=30% style="border-radius: 50%; border: 3px solid #00000000;"}
-![Ellaine at OSKM 2025](images/oskm.png){width=30% style="border-radius: 50%; border: 3px solid #00000000;"}
-![Arkavidia's Mascot!](images/maskot_arkav.png){width=30% style="border-radius: 50%; border: 3px solid #00000000;"}
+![Ellaine's First Step in ITB](images/ellaine_itbbackshot.png){width=30% style="border: 3px solid #00000000;"}
+![Ellaine at OSKM 2025](images/oskm.png){width=30% style="border: 3px solid #00000000;"}
+![Arkavidia's Mascot!](images/maskot_arkav.png){width=30% style="border: 3px solid #00000000;"}
 
 <p style="text-align: justify; margin-top: 30px;">
 Setiap peran kepanitiaan dan organisasi yang diambilnya (termasuk **Project Leader Jatrix**, **Staff Performance OSKM**, dan lainnya) ia jadikan laboratorium untuk menguji efisiensi dan kepemimpinannya. Ini adalah bukti nyata dari prinsip utamanya: **keinginan untuk membuat keputusan secara bebas hanya bisa dicapai dengan mengumpulkan pengalaman dan sumber daya sebanyak mungkin**. Semua ini adalah langkah pertamanya.
