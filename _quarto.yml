@@ -10,41 +10,28 @@ book:
   chapters:
     - part: "🎭 Bagian Personal"
       chapters:
-        - file: index.qmd
-          title: "Gerbang Aucloire"
-        - file: intro.qmd
-          title: "Perkenalan Diri" 
-        - file: My_Song_for_You/index.qmd
-          title: "Lagu untuk Anda"
-        - file: My_Stories_for_You/index.qmd
-          title: "Cerita untuk Anda"
+        - index.qmd
+        - intro.qmd
+        - My_Song_for_You/index.qmd
+        - My_Stories_for_You/index.qmd
 
     - part: "📊 Bagian Analitis"
       chapters:
-        - file: My_Shapes/index.qmd
-          title: "Bentuk dan Pola"
-        - file: My_Personal_Reviews/index.qmd
-          title: "Review Personal"
-        - file: My_Concepts/index.qmd
-          title: "Konsep Pemikiran"
+        - My_Shapes/index.qmd
+        - My_Personal_Reviews/index.qmd
+        - My_Concepts/index.qmd
 
-    - part: "💼 Bagian Profesional" 
+    - part: "💼 Bagian Profesional"
       chapters:
-        - file: My_Opinions/index.qmd
-          title: "Opini dan Pandangan"
-        - file: My_Innovations/index.qmd
-          title: "Inovasi"
-        - file: My_Knowledge/index.qmd
-          title: "Pengetahuan"
-        - file: My_Professional_Reviews/index.qmd
-          title: "Review Profesional"
+        - My_Opinions/index.qmd
+        - My_Innovations/index.qmd
+        - My_Knowledge/index.qmd
+        - My_Professional_Reviews/index.qmd
 
     - part: "📖 Penutup"
       chapters:
-        - file: summary.qmd
-          title: "Ringkasan"
-        - file: references.qmd
-          title: "Referensi"
+        - summary.qmd
+        - references.qmd
 
 bibliography: references.bib
 
