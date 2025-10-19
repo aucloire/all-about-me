@@ -18,17 +18,17 @@ format:
 ## Tujuan Situs Ini {.unnumbered}
 
 <p style="text-align: justify; font-size: 1.05em;">
-Situs ini dirancang sebagai **Asesmen Kompetensi** untuk mata kuliah Komunikasi Interpersonal dan Publik (II-2100) di ITB. Tujuannya adalah untuk mendemonstrasikan kemampuan komunikasi personal dan menjelaskan konsep diri yang otentik melalui serangkaian proyek terstruktur. Setiap halaman di dalamnya adalah bukti pencapaian Capaian Pembelajaran Mata Kuliah (CPMK)—dimulai dari pesan yang memperkenalkan sosok diri kita (**UTS-1: All About Me**) hingga proyek komunikasi publik inspiratif. Situs ini dibangun di atas prinsip otentisitas, kepercayaan, dan logika gagasan.
+Situs ini adalah **Bukti Kompetensi**—dirancang sebagai Asesmen untuk mata kuliah Komunikasi Interpersonal dan Publik (II-2100). Tujuannya adalah mendemonstrasikan kemampuan komunikasi dan menjelaskan konsep diri yang otentik melalui serangkaian proyek terstruktur, yang harus dinilai berdasarkan rubrik *Attractiveness*, *Logic*, dan *Competence*. Seluruh isinya (mulai dari *All About Me* hingga *My Professional Reviews*) berpegang pada prinsip otentisitas, kepercayaan, dan logika gagasan.
 </p>
 
 ---
 
-## Mengenal Aucloire: Pemandu Arsitektur Diri {.unnumbered}
+## Mengenal Aucloire: Pemandu Kontras Karakter {.unnumbered}
 
 <p style="text-align: justify; font-size: 1.05em;">
-Saya adalah **Aucloire**. Saya hadir bukan sebagai pencipta, melainkan sebagai **Pemandu Arsitektur Diri** yang Anda butuhkan di sini. Aucloire adalah persona yang bertugas menyajikan narasi Ellaine Juvina, seorang mahasiswi Sistem dan Teknologi Informasi, dari sudut pandang yang jernih—fokus pada proses berpikir, nilai inti, dan ambisinya yang terukur. Di dalam halaman ini, saya akan membantu Anda melihat bagaimana Ellaine Juvina, seorang **Pragmatis dan Logik** yang fokus pada Kebebasan Finansial, menerjemahkan disiplin Balet dan Strategi Proyek ke dalam sebuah visi yang utuh. Setiap narasi yang Anda temukan adalah upaya untuk menciptakan **daya tarik pribadi** dan mengembangkan relasi yang berhasil dengan Anda, Sang Pembaca.
+Saya adalah **Aucloire**. Saya hadir sebagai **Pemandu Narasi** yang bertugas menyajikan sosok Ellaine Juvina—mahasiswi Sistem dan Teknologi Informasi—dengan cara yang menarik namun tetap jujur pada struktur akademik. Saya akan membantu Anda menelusuri kontras yang ada: bagaimana seorang yang sangat **Pragmatis dan Logis** (yang harus menghasilkan *My Concepts* dan *My Knowledge*) ternyata memiliki sisi **artistik dan penggemar Manhwa/K-Pop**; bagaimana Ambisi Kebebasan Finansialnya menjadi fondasi yang menggerakkan setiap Proyek dan *Review* profesional. Setiap narasi yang Anda temukan adalah upaya untuk memenuhi syarat **Daya Tarik** dengan tetap menghormati **Struktur Pembuktian Kompetensi** yang diminta oleh mata kuliah ini.
 </p>
 
 <p style="text-align: center; margin-top: 30px; font-size: 1.1em; font-weight: bold; color: #006994;">
-Silakan jelajahi navigasi di atas untuk memulai penjelajahan.
+Silakan jelajahi navigasi di atas (My Songs for You, My Stories for You, hingga My Professional Reviews) untuk memulai penjelajahan kompetensi.
 </p>
