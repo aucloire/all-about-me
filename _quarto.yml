@@ -10,38 +10,46 @@ book:
   chapters:
     - part: "🎭 Bagian Personal"
       chapters:
-        - href: index.qmd
-          title: "Gerbang Aucloire"  # <-- NAMA CUSTOM
-        - href: intro.qmd  
-          title: "Perkenalan Diri"
-        - href: My_Song_for_You/index.qmd
+        - file: index.qmd
+          title: "Gerbang Aucloire"
+        - file: intro.qmd
+          title: "Perkenalan Diri" 
+        - file: My_Song_for_You/index.qmd
           title: "Lagu untuk Anda"
-        - href: My_Stories_for_You/index.qmd
+        - file: My_Stories_for_You/index.qmd
           title: "Cerita untuk Anda"
 
-    - part: "📊 Bagian Analitis"  
+    - part: "📊 Bagian Analitis"
       chapters:
-        - href: My_Shapes/index.qmd
+        - file: My_Shapes/index.qmd
           title: "Bentuk dan Pola"
-        - href: My_Personal_Reviews/index.qmd
+        - file: My_Personal_Reviews/index.qmd
           title: "Review Personal"
-        - href: My_Concepts/index.qmd
+        - file: My_Concepts/index.qmd
           title: "Konsep Pemikiran"
 
-    - part: "💼 Bagian Profesional"
+    - part: "💼 Bagian Profesional" 
       chapters:
-        - href: My_Opinions/index.qmd
+        - file: My_Opinions/index.qmd
           title: "Opini dan Pandangan"
-        - href: My_Innovations/index.qmd
+        - file: My_Innovations/index.qmd
           title: "Inovasi"
-        - href: My_Knowledge/index.qmd
+        - file: My_Knowledge/index.qmd
           title: "Pengetahuan"
-        - href: My_Professional_Reviews/index.qmd
+        - file: My_Professional_Reviews/index.qmd
           title: "Review Profesional"
 
     - part: "📖 Penutup"
       chapters:
-        - href: summary.qmd
+        - file: summary.qmd
           title: "Ringkasan"
-        - href: references.qmd
+        - file: references.qmd
           title: "Referensi"
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
