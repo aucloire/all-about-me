@@ -1,16 +1,47 @@
 project:
-  type: website
+  type: book
   output-dir: docs
 
-website:
-  title: "Ellaine Juvina Portfolio"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - href: intro.qmd
-        text: Introduction
+book:
+  title: "Ellaine Juvina"
+  subtitle: "Portfolio Asesmen II-2100 KIPP"
+  author: "18224071 Ellaine Juvina"
+  date: "10/18/2025"
+  chapters:
+    - part: "🎭 Bagian Personal"
+      chapters:
+        - href: index.qmd
+          title: "Gerbang Aucloire"  # <-- NAMA CUSTOM
+        - href: intro.qmd  
+          title: "Perkenalan Diri"
+        - href: My_Song_for_You/index.qmd
+          title: "Lagu untuk Anda"
+        - href: My_Stories_for_You/index.qmd
+          title: "Cerita untuk Anda"
 
-format:
-  html:
-    theme: cosmo
+    - part: "📊 Bagian Analitis"  
+      chapters:
+        - href: My_Shapes/index.qmd
+          title: "Bentuk dan Pola"
+        - href: My_Personal_Reviews/index.qmd
+          title: "Review Personal"
+        - href: My_Concepts/index.qmd
+          title: "Konsep Pemikiran"
+
+    - part: "💼 Bagian Profesional"
+      chapters:
+        - href: My_Opinions/index.qmd
+          title: "Opini dan Pandangan"
+        - href: My_Innovations/index.qmd
+          title: "Inovasi"
+        - href: My_Knowledge/index.qmd
+          title: "Pengetahuan"
+        - href: My_Professional_Reviews/index.qmd
+          title: "Review Profesional"
+
+    - part: "📖 Penutup"
+      chapters:
+        - href: summary.qmd
+          title: "Ringkasan"
+        - href: references.qmd
+          title: "Referensi"
