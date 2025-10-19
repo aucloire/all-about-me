@@ -1,12 +1,45 @@
-# My Stories for You
+---
+title: "UTS-3 My Stories for You: Menghitung Risiko Demi Gerbang Impian"
+subtitle: "Kisah Inspiratif tentang Ketekunan dan Iman"
+author: "Aucloire"
+date: "19 October 2025"
+format: 
+  html:
+    toc: false
+    css: styles.css 
+    self-contained: true
+    number-sections: true
+---
 
-A story about my oldest daughter [Gaun Pemngantin Gladys](<https://azrl.wordpress.com/2020/07/18/gaun-pengantin-gladys/#comment-28004>)
+# My Stories for You: Menghitung Risiko Demi Gerbang Impian {.unnumbered}
 
-A message to my daughter [The Child Who Learned to Walk at the Disneyland](<https://azrl.wordpress.com/2021/10/06/the-child-who-learned-to-walk-at-the-disneyland/>)
+> **Aucloire** menyajikan narasi yang membuktikan bahwa **tujuan tertinggi dicapai melalui perhitungan yang terukur, didukung oleh ketenangan spiritual**. Kisah ini adalah tentang bagaimana seorang Pragmatis mengubah keraguan menjadi cetak biru, selangkah demi selangkah.
 
-A story for my students [Fly Eagle Fly](<https://azrl.wordpress.com/2008/04/21/fly-my-eagle-fly/>)
+## Titik Balik: Dari Oleng ke Fokus
 
-A (true) story for my teachers [Sang Mahaguru, Sang Mahaputera](<https://azrl.wordpress.com/2012/11/28/perginya-sang-mahaputera-dan-mahaguru-berkemeja-putih/)
+<p style="text-align: justify;">
+Perjalanan ini tidak dimulai dengan ambisi. Di masa SMP, Ellaine melalui fase di mana ia "benar-benar tidak sekolah"—tugas menumpuk, ujian disontek, dan belajar ditinggalkan. Momen kejutannya terjadi saat orang tua menyadari kondisi tersebut dan mengajukan pertanyaan krusial: *apakah tidak mau melanjutkan SMA?* Pertanyaan itu memantik kesadaran diri yang tajam: *masa iya? nanti di masa depan jadi apa?*. Sejak saat itu, fokus mulai dibangun, meskipun prosesnya sulit karena situasi sekolah online. Namun, titik balik sesungguhnya datang ketika ia menetapkan tujuan tunggal: **memantapkan hati untuk masuk STEI-K ITB**. Target inilah yang menjadi kompas untuk memandu setiap langkah selanjutnya.
+</p>
 
-Teasing story
-{{< video https://www.youtube.com/watch?v=Dg_4PbBlBf4 >}}
+## Transisi: Dari Nilai Jeblok ke Paralel 2
+
+<p style="text-align: justify;">
+Meskipun tujuan sudah jelas, realitas awal SMA terasa pahit. Nilai di Kelas 10 jeblok, bahkan termasuk yang terendah di kelas. Namun, sifat **pragmatis** Ellaine segera mengambil alih. Ketika ia menemukan STEI-K, ia langsung membuat perhitungan risiko: sekolahnya di Medan adalah "sangat nugu" dan tidak memiliki alumni STEI-K, membuat jalur SNMPTN hampir mustahil. Keputusan logis pun diambil: **membuang jalur SNMPTN** dan mengamankan **SBMPTN (ujian tertulis)**. Kelas 11 menjadi *turning point* sesungguhnya: dari nilai terendah, ia berhasil meraih **Paralel 2**. Pencapaian ini membuktikan prinsip intinya: *wah, ternyata aku bisa kalau belajar, aku nggak bodoh ternyata*. Dengan keyakinan itu, investasi strategis dilanjutkan: membujuk orang tua untuk mendaftarkannya di Prosus INTEN, untuk memastikan persiapan ujian terstruktur.
+</p>
+
+<h2>Pertarungan Akhir: Ketenangan di Tengah Demot {.unnumbered}
+
+<p style="text-align: justify;">
+Perjalanan dua tahun mengejar STEI-K mencapai klimaks yang dramatis. Mendekati UTBK, skor tryout justru terus menurun. Ellaine jatuh ke dalam **demot yang parah**—panik dan cemas, takut semua *effort* akan sia-sia. Namun, H-2 UTBK, ia mencapai titik balik spiritual. Ia *take a moment to cry her heart out*, mengeluh dan mengakui keadaannya di hadapan Tuhan, meminta kekuatan untuk bangkit. Setelah momen itu, hati Ellaine **tenang—beneran tenang**. Alih-alih istirahat, ia memutuskan datang ke Inten H-1 UTBK, mencari ketenangan di lingkungan yang produktif, meski hanya mengerjakan soal dengan santai.
+</p>
+
+## Pengumuman: Harga Sebuah Otonomi
+
+<p style="text-align: justify;">
+Di hari UTBK, setiap langkah dijalani dengan teratur: membaca catatan sambil mendengarkan lagu rohani, dan berdoa sebelum setiap subtes. Tiba di hari pengumuman, gejolak emosi kembali menghantam. Berbeda dengan ketenangan saat SNBP, kali ini ia **benar-benar deg-degan**. Doanya kali ini bukan lagi meminta kelulusan, melainkan meminta **ketenangan hati** jika tidak lolos, meminta hati yang bisa menerima dan tidak menyerah. Dua menit sebelum pengumuman, ia lari ke papa dan mama. Saat layar menunjukkan hasil: **LOLOS**. Ellaine langsung berteriak dan **menangis**—sebuah momen langka karena ia hampir tidak pernah menangis di depan orang tuanya. Kisah ini adalah perwujudan prinsipnya: **Kebebasan** (masuk kampus impian) dicapai melalui **Strategi Pragmatis** yang didukung oleh keyakinan mendalam.
+</p>
+
+<p style="text-align: justify; font-weight: bold; margin-top: 30px;">
+Kisah ini adalah undangan Aucloire kepada Anda untuk percaya bahwa bahkan dalam titik terendah, mengaktifkan mode analisis dan mencari bantuan spiritual adalah strategi paling pragmatis untuk meraih ambisi yang tampak mustahil.
+</p>
+<hr>
