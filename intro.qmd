@@ -2,7 +2,7 @@
 title: "Asesmen Kompetensi: UTS-1 All About Me (Ellaine Juvina)"
 subtitle: "Pesan yang Memperkenalkan Sosok Diri Kita"
 author: "Aucloire" 
-date: "October 2025" 
+date: "18 October 2025" 
 format: 
   html:
     toc: false
