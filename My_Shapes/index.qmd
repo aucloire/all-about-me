@@ -2,7 +2,7 @@
 title: "UTS-4 My SHAPE: Piagam Diri dan Identitas Naratif"
 subtitle: "Laporan Asesmen Diri Berdasarkan Kerangka Holistik My SHAPE"
 author: "Aucloire"
-date: "October 2025"
+date: "21 October 2025"
 format: 
   html:
     toc: false
@@ -18,39 +18,39 @@ format:
 ## 1. Piagam Diri (Personal Charter) {.unnumbered}
 
 <p style="text-align: justify; font-size: 1.05em; font-weight: bold;">Pernyataan Misi Pribadi:</p>
-<p style="text-align: justify; font-size: 1.05em; margin-top: -10px;">Menggunakan kekuatan logis, ketahanan yang teruji, dan keterampilan manajerial untuk memecahkan masalah kompleks dan menciptakan **Kebebasan Mutlak** bagi diri sendiri dan orang yang dicintai, dengan gaya yang analitis dan berorientasi hasil.</p>
+<p style="text-align: justify; font-size: 1.05em; margin-top: -10px;">Menggunakan ketegasan berpikir, ketahanan yang teruji, dan kemampuan manajerial untuk memecahkan masalah kompleks dan menciptakan **Kemandirian Finansial** bagi diri sendiri dan orang yang dicintai.</p>
 
 ### A. S - Signature Strengths (Kekuatan Khas)
 <ul>
-    <li>**Fokus Pemulihan Aksi (Action Recovery Focus):** Ketika terjadi kegagalan atau kemunduran, kekuatan utama saya adalah **transisi cepat ke analisis dan solusi**, menghindari berlama-lama di zona kekecewaan.</li>
-    <li>**Ketegasan Hasil:** Dedikasi tinggi pada *deliverables* dan ketidakmampuan menoleransi **penundaan (procrastination)** atau **argumen tidak realistis** tanpa solusi yang jelas.</li>
+    <li>**Fokus Aksi Cepat (Action Focus):** Ketika terjadi kegagalan, kekuatan utama saya adalah **transisi cepat ke analisis dan solusi**, menghindari berlama-lama dalam kekecewaan.</li>
+    <li>**Ketegasan Standar:** Dedikasi tinggi pada target dan ketidakmampuan menoleransi **penundaan** atau **alasan tanpa dasar yang jelas**.</li>
 </ul>
 
 ### B. H - Heart (Nilai Inti & Gairah)
 <ul>
-    <li>**Nilai Inti #1: Otonomi & Kebebasan Mutlak:** Tujuan utama hidup yang tidak dapat dinegosiasikan: mencapai **Kebebasan Finansial** agar dapat membuat keputusan tanpa dikendalikan oleh konsekuensi negatif.</li>
-    <li>**Nilai Inti #2: Kontrol & Kejelasan Sistem:** Menghargai **koordinasi yang solid** dalam tim dan benci *whining* atau **ketidakjelasan sistem**.</li>
-    <li>**Gairah (Passion):** Membangun ruang imajinasi melalui **Manhwa** dan **K-Pop (Seventeen)** sebagai bentuk pelepasan energi dari realitas yang terstruktur.</li>
+    <li>**Nilai Inti #1: Otonomi & Kebebasan:** Tujuan utama hidup: mencapai **Kemandirian Finansial** agar dapat membuat keputusan tanpa dikendalikan oleh tanggungan.</li>
+    <li>**Nilai Inti #2: Keteraturan:** Menghargai **koordinasi yang solid** dalam tim dan benci **ketidakjelasan proses**.</li>
+    <li>**Gairah (Passion):** Membangun ruang imajinasi melalui **Manhwa** dan **K-Pop (Seventeen)** sebagai bentuk pelepasan dari realitas yang terstruktur.</li>
 </ul>
 
 ### C. A - Aptitudes & Acquired Skills (Bakat & Keterampilan)
 <ul>
-    <li>**Bakat Alami (Aptitude):** Berpikir Logis dan Analitis (tertarik pada Data/Organisasi) dan Disiplin Presisi Tinggi (Balet).</li>
+    <li>**Bakat Alami (Aptitude):** Berpikir Analitis dan Sistematis (tertarik pada Data/Organisasi) dan Disiplin Presisi Tinggi (Balet).</li>
     <li>**Keterampilan Teknis (Hard Skills):** Data Analysis (Python), Project Planning & Execution (teruji di Jatrix, OSKM), Version Control.</li>
-    <li>**Keterampilan Non-Teknis (Soft Skills):** Kepemimpinan Asertif, Pemecahan Masalah Sistemik, Komunikasi Strategis.</li>
+    <li>**Keterampilan Non-Teknis (Soft Skills):** Kepemimpinan yang Tegas, Pemecahan Masalah Sistemik, Komunikasi Efektif.</li>
 </ul>
 
 ### D. P - Personality (Profil Kepribadian)
 <ul>
-    <li>**MBTI: INTP (The Logician):** Saya adalah Arsitek Logika, yang termotivasi oleh sistem, ide, dan proses yang efisien. Gaya kerja saya adalah mencari kebenaran yang mendasari dan merancang kerangka kerja yang solid.</li>
-    <li>**Gaya Kerja:** Analitis, Berorientasi pada Proses, Mandiri, dan Fokus pada Penciptaan Sistem yang *scalable*.</li>
+    <li>**MBTI: INTP (The Logician):** Saya termotivasi oleh sistem, ide, dan proses yang efisien. Gaya kerja saya adalah mencari kebenaran yang mendasari dan merancang kerangka kerja yang solid.</li>
+    <li>**Gaya Kerja:** Analitis, Berorientasi pada Proses, Mandiri, dan Fokus pada Penciptaan Keteraturan.</li>
 </ul>
 
 ### E. Experiences (Pelajaran Hidup Kunci)
 <ul>
     <li>**Disiplin Balet RAD (E):** Pengalaman yang mengajarkan **disiplin, presisi, dan konsistensi** melalui ujian (*Grade Distinction*), membentuk karakter yang menghargai standar tinggi.</li>
-    <li>**Dari Krisis UTBK (E):** Saya belajar bahwa **ketahanan sejati** datang dari integrasi antara **pragmatisme** (fokus aksi) dan **iman** (meminta ketenangan hati), bukan dari kekhawatiran.</li>
-    <li>**Kepemimpinan Jatrix/Proyek (E):** Mengajarkan bahwa pemimpin sejati harus bisa memastikan tim tidak hanya mencapai *deliverables*, tetapi juga menjaga **keharmonisan** di tengah tuntutan kualitas.</li>
+    <li>**Dari Krisis UTBK (E):** Saya belajar bahwa **ketahanan sejati** datang dari integrasi antara **aksi cepat** dan **iman** (meminta ketenangan hati), bukan dari kekhawatiran.</li>
+    <li>**Dari Organisasi/Proyek (E):** Mengajarkan bahwa pemimpin harus bisa memastikan tim tidak hanya mencapai *deliverables*, tetapi juga menjaga **keharmonisan** di tengah tuntutan kualitas.</li>
 </ul>
 
 <hr>
@@ -62,15 +62,14 @@ Identitas naratif ini adalah kisah yang mengubah data Piagam Diri di atas menjad
 </p>
 
 <p style="text-align: justify;">
-Saat ini, Ellaine Juvina adalah mahasiswa STEI-K ITB yang berdedikasi tinggi pada **arsitektur sistem dan logika INTP** (P). Perjalanan ini dibentuk oleh disiplin presisi tinggi sejak dini: saya dilatih oleh **Balet** (E) untuk menghargai setiap detail dan konsistensi, sebuah kekuatan (S) yang kemudian saya terapkan pada **Project Management dan Analisis Data** (A). Kontras terbesarnya terlihat dalam nilai saya (**Otonomi/Kebebasan**, H): Visi hidup saya adalah mencapai Kebebasan Finansial, dan prinsip INTP saya mengubah segala sesuatu—mulai dari hobi **Manhwa** (H) hingga Project Leader **Jatrix** (E)—menjadi **investasi yang logis** untuk mencapai kebebasan itu.
+Saat ini, Ellaine Juvina adalah mahasiswa STEI-K ITB yang berdedikasi tinggi pada **logika INTP** (P). Perjalanan ini dibentuk oleh disiplin presisi tinggi sejak dini: saya dilatih oleh **Balet** (E) untuk menghargai setiap detail dan konsistensi, sebuah kekuatan (S) yang kemudian saya terapkan pada **Project Management dan Analisis Data** (A). Nilai inti saya adalah (**Otonomi/Kebebasan**, H): Visi hidup saya adalah mencapai Kemandirian Finansial, dan prinsip INTP saya mengubah segala sesuatu menjadi **investasi yang logis** untuk mencapai kebebasan itu.
 </p>
 
 <p style="text-align: justify;">
-Kekuatan khas saya adalah **Fokus Pemulihan Aksi** (S): saat mengalami kemunduran, saya mengaktifkan mode analisis, **transisi cepat ke solusi**, dan menghindari tenggelam dalam *complaining*. Kekuatan ini teruji saat saya membuat keputusan logis untuk **mengabaikan jalur SNBP** dan fokus 100% pada ujian tertulis (E)—sebuah langkah yang membawa saya menjadi alumni pertama di STEI-K. Gaya kepemimpinan ini (P) didorong oleh kebutuhan akan **kejelasan sistem** (H), yang memastikan fondasi yang saya bangun untuk masa depan bebas kami semua haruslah kokoh, teratur, dan terhindar dari konsekuensi negatif.
+Kekuatan khas saya adalah **Fokus Aksi Cepat** (S): saat mengalami kemunduran, saya mengaktifkan mode analisis, **transisi cepat ke solusi**, dan menghindari tenggelam dalam *complaining*. Kekuatan ini teruji saat saya membuat keputusan logis untuk **mengabaikan jalur SNBP** dan fokus 100% pada ujian tertulis (E)—sebuah langkah yang membawa saya menjadi alumni pertama di STEI-K. Gaya kepemimpinan ini (P) didorong oleh kebutuhan akan **kejelasan sistem** (H), yang memastikan fondasi yang saya bangun untuk masa depan bebas kami semua haruslah kokoh dan terhindar dari konsekuensi negatif.
 </p>
 
 <p style="text-align: justify; font-weight: bold; margin-top: 30px;">
-Dengan Piagam Diri ini, saya menawarkan diri saya kepada dunia: seorang pemimpin yang membawa **logika analitis** ke dalam setiap proyek, didorong oleh **janji Kebebasan Mutlak** di masa depan, dan diuji oleh **ketahanan yang menolak keraguan**.
+Dengan Piagam Diri ini, saya menawarkan diri saya kepada dunia: seorang pemimpin yang membawa **ketegasan analitis** ke dalam setiap proyek, didorong oleh **janji Kemandirian Mutlak** di masa depan, dan diuji oleh **ketahanan yang menolak keraguan**.
 </p>
-
 <hr>
