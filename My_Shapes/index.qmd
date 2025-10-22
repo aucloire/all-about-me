@@ -2,7 +2,7 @@
 title: "UTS-4 My SHAPE: Piagam Diri dan Identitas Naratif"
 subtitle: "Laporan Asesmen Diri Berdasarkan Kerangka Holistik My SHAPE"
 author: "Aucloire"
-date: "21 October 2025"
+date: "October 2025"
 format: 
   html:
     toc: false
@@ -20,42 +20,25 @@ format:
 <p style="text-align: justify; font-size: 1.05em; font-weight: bold;">Pernyataan Misi Pribadi:</p>
 <p style="text-align: justify; font-size: 1.05em; margin-top: -10px;">Menggunakan ketegasan berpikir, ketahanan yang teruji, dan kemampuan manajerial untuk memecahkan masalah kompleks dan menciptakan **Kemandirian Finansial** bagi diri sendiri dan orang yang dicintai.</p>
 
-### A. S - Signature Strengths (Kekuatan Khas)
-<ul>
-    <li>**Fokus Aksi Cepat (Action Focus):** Ketika terjadi kegagalan, kekuatan utama saya adalah **transisi cepat ke analisis dan solusi**, menghindari berlama-lama dalam kekecewaan.</li>
-    <li>**Ketegasan Standar:** Dedikasi tinggi pada target dan ketidakmampuan menoleransi **penundaan** atau **alasan tanpa dasar yang jelas**.</li>
-</ul>
+<hr>
 
-### B. H - Heart (Nilai Inti & Gairah)
-<ul>
-    <li>**Nilai Inti #1: Otonomi & Kebebasan:** Tujuan utama hidup: mencapai **Kemandirian Finansial** agar dapat membuat keputusan tanpa dikendalikan oleh tanggungan.</li>
-    <li>**Nilai Inti #2: Keteraturan:** Menghargai **koordinasi yang solid** dalam tim dan benci **ketidakjelasan proses**.</li>
-    <li>**Gairah (Passion):** Membangun ruang imajinasi melalui **Manhwa** dan **K-Pop (Seventeen)** sebagai bentuk pelepasan dari realitas yang terstruktur.</li>
-</ul>
+## 2. Sintesis My SHAPE (Kerangka Kerja) {.unnumbered}
 
-### C. A - Aptitudes & Acquired Skills (Bakat & Keterampilan)
-<ul>
-    <li>**Bakat Alami (Aptitude):** Berpikir Analitis dan Sistematis (tertarik pada Data/Organisasi) dan Disiplin Presisi Tinggi (Balet).</li>
-    <li>**Keterampilan Teknis (Hard Skills):** Data Analysis (Python), Project Planning & Execution (teruji di Jatrix, OSKM), Version Control.</li>
-    <li>**Keterampilan Non-Teknis (Soft Skills):** Kepemimpinan yang Tegas, Pemecahan Masalah Sistemik, Komunikasi Efektif.</li>
-</ul>
+<p style="text-align: justify;">
+Sintesis ini merangkum lima dimensi fundamental (*Signature Strengths, Heart, Aptitudes, Personality, Experiences*) yang membentuk profil Ellaine Juvina.
+</p>
 
-### D. P - Personality (Profil Kepribadian)
-<ul>
-    <li>**MBTI: INTP (The Logician):** Saya termotivasi oleh sistem, ide, dan proses yang efisien. Gaya kerja saya adalah mencari kebenaran yang mendasari dan merancang kerangka kerja yang solid.</li>
-    <li>**Gaya Kerja:** Analitis, Berorientasi pada Proses, Mandiri, dan Fokus pada Penciptaan Keteraturan.</li>
-</ul>
-
-### E. Experiences (Pelajaran Hidup Kunci)
-<ul>
-    <li>**Disiplin Balet RAD (E):** Pengalaman yang mengajarkan **disiplin, presisi, dan konsistensi** melalui ujian (*Grade Distinction*), membentuk karakter yang menghargai standar tinggi.</li>
-    <li>**Dari Krisis UTBK (E):** Saya belajar bahwa **ketahanan sejati** datang dari integrasi antara **aksi cepat** dan **iman** (meminta ketenangan hati), bukan dari kekhawatiran.</li>
-    <li>**Dari Organisasi/Proyek (E):** Mengajarkan bahwa pemimpin harus bisa memastikan tim tidak hanya mencapai *deliverables*, tetapi juga menjaga **keharmonisan** di tengah tuntutan kualitas.</li>
-</ul>
+| Dimensi | Elemen Kunci | Deskripsi Singkat |
+| :--- | :--- | :--- |
+| **S** | **Signature Strengths** | **Fokus Aksi Cepat:** Transisi cepat ke analisis dan solusi saat menghadapi kemunduran. **Ketegasan Standar:** Dedikasi pada target, tidak toleran pada penundaan atau alasan tanpa dasar yang jelas. |
+| **H** | **Heart (Nilai Inti & Gairah)** | **Otonomi & Kebebasan:** Tujuan hidup utama: mencapai Kemandirian Finansial. **Keteraturan:** Menghargai koordinasi tim dan benci ketidakjelasan proses. **Gairah:** Manhwa & K-Pop sebagai pelepasan energi terstruktur. |
+| **A** | **Aptitudes & Acquired Skills** | **Bakat Alami:** Berpikir Analitis dan Sistematis, Disiplin Presisi Tinggi (Balet). **Keterampilan Teknis:** Data Analysis (Python), Project Planning & Execution. |
+| **P** | **Personality** | **MBTI: INTP (The Logician):** Termotivasi oleh sistem, ide, dan proses yang efisien. **Gaya Kerja:** Analitis, Mandiri, Fokus pada Penciptaan Keteraturan. |
+| **E** | **Experiences** | **Disiplin Balet:** Mengajarkan presisi dan konsistensi melalui ujian. **Krisis UTBK:** Membuktikan bahwa ketahanan sejati datang dari aksi cepat dan iman. **Organisasi/Proyek:** Belajar menyeimbangkan *deliverables* dengan keharmonisan tim. |
 
 <hr>
 
-## 2. Identitas Naratif (Sintesis SHAPE) {.unnumbered}
+## 3. Identitas Naratif (Kisah Diri) {.unnumbered}
 
 <p style="text-align: justify; font-size: 1.05em;">
 Identitas naratif ini adalah kisah yang mengubah data Piagam Diri di atas menjadi alur yang koheren.
@@ -72,4 +55,3 @@ Kekuatan khas saya adalah **Fokus Aksi Cepat** (S): saat mengalami kemunduran, s
 <p style="text-align: justify; font-weight: bold; margin-top: 30px;">
 Dengan Piagam Diri ini, saya menawarkan diri saya kepada dunia: seorang pemimpin yang membawa **ketegasan analitis** ke dalam setiap proyek, didorong oleh **janji Kemandirian Mutlak** di masa depan, dan diuji oleh **ketahanan yang menolak keraguan**.
 </p>
-<hr>
