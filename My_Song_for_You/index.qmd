@@ -1,8 +1,8 @@
 ---
-title: "UTS-2 My Songs for You: The Quiet Resilience"
+title: "UTS-2 My Songs for You: The Quiet Hearth"
 subtitle: "Pesan untuk Relasi Intim: Janji Ketahanan dan Ruang Bebas"
 author: "Aucloire"
-date: "19 October 2025"
+date: "20 October 2025"
 format: 
   html:
     toc: false
@@ -11,12 +11,12 @@ format:
     number-sections: true
 ---
 
-# My Songs for You: The Quiet Resilience {.unnumbered}
+# My Songs for You: The Quiet Hearth {.unnumbered}
 
 ## 1. Tentang Karya: Pesan Moralitas dan Proses Bertumbuh {.unnumbered}
 
 <p style="text-align: justify;">
-“The Quiet Resilience” adalah pesan yang saya tujukan kepada **relasi intim** (keluarga/sahabat), yang saya buat sebagai janji dan refleksi proses bertumbuh. Lagu ini menceritakan tentang **ketahanan (resilience) yang sunyi**—bahwa semua upaya dan fokus yang terlihat dari luar adalah sebuah pembangunan fondasi untuk masa depan yang tenang dan bebas dari beban. Pesan utamanya sederhana: **setiap kesulitan harus diubah menjadi pendorong, bukan alasan untuk berhenti.**
+“The Quiet Hearth” adalah pesan yang saya tujukan kepada **relasi intim** (keluarga/sahabat), yang saya buat sebagai janji dan refleksi proses bertumbuh. Lagu ini menceritakan tentang **ketahanan (resilience) yang sunyi**—bahwa semua upaya dan fokus yang terlihat dari luar adalah sebuah pembangunan fondasi untuk masa depan yang tenang dan bebas dari beban. Pesan utamanya sederhana: **setiap kesulitan harus diubah menjadi pendorong, bukan alasan untuk berhenti.**
 </p>
 
 <p style="text-align: justify;">
@@ -24,7 +24,7 @@ Karya ini selaras dengan pembelajaran di mata kuliah Komunikasi Interpersonal & 
 </p>
 
 <ul>
-    <li>**Memahami Komunikasi Diri (Self-Talk):** Lirik ini mencerminkan pengelolaan **Komunikasi Diri** dengan **melompati fase duka** dan langsung mencari solusi, menunjukkan *self-talk* yang konstruktif dan pragmatis.</li>
+    <li>**Memahami Komunikasi Diri (Self-Talk):** Lirik ini mencerminkan pengelolaan **Komunikasi Diri** dengan **bertindak cepat** dan langsung mencari solusi, menunjukkan *self-talk* yang konstruktif.</li>
     <li>**Kekuatan dan Penggunaan Bahasa:** Janji yang tegas dalam lagu menunjukkan kesadaran akan **Kekuatan dan Penggunaan Bahasa** untuk membangun kepercayaan dan pondasi yang kuat.</li>
     <li>**Mendengar:** Lirik ini mendefinisikan relasi intim sebagai **"The Quiet Place"**—sebuah refleksi pentingnya **Mendengar** sebagai fondasi yang memungkinkan ketenangan diri.</li>
     <li>**Komunikasi Interpersonal:** Secara keseluruhan, karya ini adalah demonstrasi upaya membangun dan mengembangkan relasi yang berhasil melalui pesan personal.</li>
@@ -35,64 +35,73 @@ Secara teknis, lagu ini dibuat dengan AI musik *[Sebutkan platform AI Anda]* den
 </p>
 
 <h3 style="text-align: center; margin-top: 30px;">Tonton Karya Langsung</h3>
-<p style="text-align: center;">
-    <a href="[MASUKKAN LINK YOUTUBE/AUDIO ANDA DI SINI]" target="_blank" style="font-weight: bold;">[KLIK DI SINI UNTUK MENDENGARKAN "THE QUIET RESILIENCE"]</a>
-</p>
+<div class="ratio ratio-16x9" style="margin-bottom: 20px;">
+  <iframe src="[PASTE LINK EMBED YOUTUBE ANDA DI SINI]" 
+          title="YouTube video player" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen>
+  </iframe>
+</div>
 <hr>
 
-## 2. Lirik: The Quiet Resilience {.unnumbered}
+## 2. Lirik: The Quiet Hearth {.unnumbered}
 
 ### **[Verse 1]**
-(Calm music, warm acoustic guitar)
-I know, my path feels quiet, I don't talk much about the process.
-Since forever, I've been used to calculating every moment, not every sentence.
-You see me constantly moving, always searching for solid ground,
-As if life is only about reaching the peak and never looking down.
-They often ask why I never truly pause and rest.
-But you know, this is how I keep the flame steady inside my chest.
+The path is quiet 
+Don't talk much
+Just steady work
+Every time
+
+They see the move
+Not the fear
+I skip the falling
+Straight to where
 
 ### **[Pre-Chorus]**
-(Soft R&B beat enters)
-When the world fails me, I don't let myself sink for too long.
-Because I know, tears alone will only hold us back from being strong.
-I immediately look for where the fault lies, refusing to dwell in the fog,
-For this one promise, I must always rise above the clog.
+The tears I hold
+Are for the lack
+The missing tool
+The final gap
 
 ### **[Chorus]**
-You are the **Quiet Place** when the world outside is loud,
-The solid foundation when everything feels lost in the crowd.
-I promise you, all this hard effort, every single piece of resilience,
-Is the investment to build a **Free Space** for us both, without negligence.
-Where we can choose without burden, without fear of having to delay.
-That is the final goal, and I will bring you there one day.
+Build the Hearth
+Find the safety
+Fly Free
+Pay the cost
+You are the comfort
+The reason for the run
+To breathe
+Without consequence
 
 ### **[Verse 2]**
-I learned that true resilience is the most valuable currency to hold.
-Every challenge is just a chapter, not the ending of the story told.
-I despise empty promises, or words that lack honest foundation.
-Because I know, our home must stand firm on logic and lasting creation.
-Maybe sometimes I seem too focused, too concerned with what tomorrow brings.
-But that's because I'm ensuring there are no burdens left to clip our wings.
+No fake promises
+Just solid ground
+Hate the noise
+Love the clear sound
+
+I build the shelter
+One strong wall
+The patient hand
+That secures all
 
 ### **[Bridge]**
-(Music slightly swells, more emotional commitment)
-You are the witness to the times my control nearly broke.
-Those rare moments—when the tears were real, and every wall began to choke.
-Listen, these lyrics are my way of saying it clearly:
-All this discipline is to secure our **autonomy** dearly.
-We are exchanging the structure of today for the **freedom** of tomorrow.
+They see the action
+Not the debt
+This quiet strength
+Is all we get
 
 ### **[Chorus]**
-You are the **Quiet Place** when the world outside is loud,
-The solid foundation when everything feels lost in the crowd.
-I promise you, all this hard effort, every single piece of resilience,
-Is the investment to build a **Free Space** for us both, without negligence.
-Where we can choose without burden, without fear of having to delay.
-That is the final goal, and I will bring you there one day.
+Build the Hearth
+Find the safety
+Fly Free
+Pay the cost
+You are the comfort
+The reason for the run
+To breathe
+Without consequence
 
 ### **[Outro]**
-(Music fades slowly, R&B beat softens)
-*Just waiting for the day, where we can choose our own way...*
-*...without ever counting the cost.*
-*Just waiting for that day.*
-*(Musik menghilang)*
+Just waiting for the day, where we can choose our own way...
+...without ever counting the cost
+Just waiting for that day
