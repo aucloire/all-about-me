@@ -2,7 +2,7 @@
 title: "UTS-5 My Personal Reviews: Analisis dan Refleksi Diri"
 subtitle: "Telahan Pesan Personal Berdasarkan Rubrik UTS-1 s/d UTS-4"
 author: "Aucloire"
-date: "October 2025"
+date: "23 October 2025"
 format: 
   html:
     toc: false
@@ -105,3 +105,22 @@ Berikut adalah langkah-langkah yang akan segera saya lakukan untuk memperkuat ko
     <li>**Desain Minor:** Melakukan revisi minor pada desain untuk memastikan keseragaman warna dan navigasi di seluruh situs sebelum Ujian Akhir Semester (UAS).</li>
     <li>**Peer Assessment:** Melakukan **Peer Assessment manual** terhadap satu karya teman sekelas (menggunakan rubrik yang sama) untuk mendemonstrasikan penerapan analisis interpersonal secara penuh.</li>
 </ol>
+
+## 3. Peer Assessment (Manual) {.unnumbered}
+
+<p style="text-align: justify;">
+Peer Assessment ini dilakukan secara manual menggunakan rubrik yang sama terhadap karya salah satu teman sekelas.
+</p>
+
+<h3 style="text-align: center;">Hasil Peer Assessment (Tampilan Google Sheets)</h3>
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTufCVMPC41uKf0Ny9JRW8AHihcaJ1CUvCdv2-tdG11x8M8URGRhvuEBBumEy7JnBgSgqTpUBi4cLWi/pubhtml?widget=true&amp;headers=false" 
+        width="100%" 
+        height="500" 
+        frameborder="0" 
+        allowfullscreen>
+    Tabel Peer Assessment Anda akan muncul di sini.
+</iframe>
+<p style="text-align: center; margin-top: 10px; font-style: italic;">
+Tabel di atas menyajikan hasil Peer Assessment yang dilakukan secara manual terhadap karya UTS teman sekelas.
+</p>
