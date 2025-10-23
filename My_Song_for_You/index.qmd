@@ -36,7 +36,7 @@ Secara teknis, lagu ini dibuat dengan AI musik *[Sebutkan platform AI Anda]* den
 
 <h3 style="text-align: center; margin-top: 30px;">Tonton Karya Langsung</h3>
 <div class="ratio ratio-16x9" style="margin-bottom: 20px;">
-  <iframe src="[PASTE LINK EMBED YOUTUBE ANDA DI SINI]" 
+  <iframe src="https://youtu.be/jvOu8rbCjUY" 
           title="YouTube video player" 
           frameborder="0" 
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
