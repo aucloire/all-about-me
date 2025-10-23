@@ -114,7 +114,7 @@ Peer Assessment ini dilakukan secara manual menggunakan rubrik yang sama terhada
 
 <h3 style="text-align: center;">Hasil Peer Assessment (Tampilan Google Sheets)</h3>
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTufCVMPC41uKf0Ny9JRW8AHihcaJ1CUvCdv2-tdG11x8M8URGRhvuEBBumEy7JnBgSgqTpUBi4cLWi/pubhtml?widget=true&amp;headers=false" 
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTufCVMPC41uKf0Ny9JRW8AHihcaJ1CUvCdv2-tdG11x8M8URGRhvuEBBumEy7JnBgSgqTpUBi4cLWi/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"  
         width="100%" 
         height="500" 
         frameborder="0" 
