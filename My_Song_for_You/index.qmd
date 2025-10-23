@@ -35,8 +35,14 @@ Secara teknis, lagu ini dibuat dengan AI musik *Suno AI* dengan genre K-Indie/R&
 </p>
 
 <h3 style="text-align: center; margin-top: 30px;">Tonton Karya Langsung</h3>
-<div class="ratio ratio-16x9" style="margin-bottom: 20px;">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/jvOu8rbCjUY?si=iiPJTPYOXBKJg74j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" 
+          src="https://www.youtube.com/embed/jvOu8rbCjUY" 
+          title="YouTube video player" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+          allowfullscreen>
+  </iframe>
 </div>
 <hr>
 
