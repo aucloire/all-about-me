@@ -31,12 +31,12 @@ Karya ini selaras dengan pembelajaran di mata kuliah Komunikasi Interpersonal & 
 </ul>
 
 <p style="text-align: justify; margin-top: 15px;">
-Secara teknis, lagu ini dibuat dengan AI musik *[Sebutkan platform AI Anda]* dengan genre K-Indie/R&B Chill. Fokus utama adalah pada pesan yang ingin disampaikan: keuletan, harapan, dan janji untuk masa depan yang bebas.
+Secara teknis, lagu ini dibuat dengan AI musik *Suno AI* dengan genre K-Indie/R&B Chill. Fokus utama adalah pada pesan yang ingin disampaikan: keuletan, harapan, dan janji untuk masa depan yang bebas.
 </p>
 
 <h3 style="text-align: center; margin-top: 30px;">Tonton Karya Langsung</h3>
 <div class="ratio ratio-16x9" style="margin-bottom: 20px;">
-  <iframe src="https://youtu.be/jvOu8rbCjUY" 
+  <iframe src="https://youtu.be/embed/jvOu8rbCjUY" 
           title="YouTube video player" 
           frameborder="0" 
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
@@ -51,7 +51,7 @@ Secara teknis, lagu ini dibuat dengan AI musik *[Sebutkan platform AI Anda]* den
 The path is quiet <br>
 Don't talk much<br>
 Just steady work<br>
-Every time<br><br>
+Every time<br>
 
 They see the move<br>
 Not the fear<br>
@@ -104,5 +104,4 @@ Without consequence<br>
 ### **[Outro]**
 Just waiting for the day, where we can choose our own way...<br>
 ...without ever counting the cost<br>
-Just waiting for that day
 Just waiting for that day
